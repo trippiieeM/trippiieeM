@@ -58,6 +58,9 @@ My mission is to **bridge the gap between technology and agriculture** by buildi
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trippiieem&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Morris Muchiri's Top Languages" />
     </a>
     <br/>
+    ### 📅 Daily Contributions
+    <img src="https://github-contributor-stats.vercel.app/api?username=trippiieem&limit=5&theme=tokyonight&columns=7" alt="Morris Muchiri's Contribution Graph" />
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=trippiieem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
