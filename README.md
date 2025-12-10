@@ -72,6 +72,10 @@
 - **Address:** P.O. BOX 119, Karatina  
 
 ---
+## 📊 GitHub Year Summary
+
+![Year Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrippiieeM&theme=tokyonight)
+
 
 ## ⚡ Fun Fact
 I love building solutions for **real rural farmers**—simple tools that make a big impact.
