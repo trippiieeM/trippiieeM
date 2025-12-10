@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 - 🌾 I build **agritech mobile applications** that solve real-world problems for farmers.  
-- 🧠 Strong interest in **machine learning**, especially in prediction models and anomaly detection.  
-- 📱 Skilled in **React Native** and **Flutter** for mobile development.  
-- ☁️ Experienced with **Firebase**, **Supabase**, and building online/offline-ready apps.  
-- 💡 Always exploring new ways to combine **technology + agriculture** to make farming smarter.
+- 🧠 Interest in **machine learning** (prediction models & anomaly detection).  
+- 📱 Skilled in **React Native & Flutter**  
+- ☁️ Experienced with **Firebase & Supabase**  
+- 🔧 Building offline-first, scalable mobile apps  
 
 ---
 
@@ -23,33 +23,46 @@
 ### **Backend & Cloud**
 - Firebase (Auth, Firestore, Storage)
 - Supabase
-- Node.js (basic)
 
 ### **Tools & Others**
 - Git & GitHub  
 - Figma  
 - REST APIs  
-- AsyncStorage / Local DB  
-- Data Visualization
+- Data Visualization  
 
 ---
 
 ## 🌟 Featured Projects
 ### 📱 **Podago — Mobile Milk Collection & Farmer Support System**
-A cross-platform app for dairy farmers featuring:
 - ✔ Phone number authentication  
 - ✔ Log milk production  
 - ✔ Animal management  
 - ✔ Trend visualization  
 - ✔ Offline-first + Firebase backup  
-- ✔ Cooperative announcements  
 
-### 📱 MkulimaSmart  
-A farm management app with:
+### 📱 **MkulimaSmart**
 - ✔ Production logging  
-- ✔ Marketplace for farm produce  
-- ✔ Machine learning (Linear Regression & Isolation Forest)  
+- ✔ Marketplace  
+- ✔ ML predictions (Linear Regression)  
+- ✔ Anomaly detection (Isolation Forest)  
 - ✔ Firebase integration  
+
+---
+
+# 📊 GitHub Contribution Stats
+
+### **🔥 Streak Stats**
+![GitHub Streak](https://streak-stats.demolab.com?user=TrippiieeM&theme=tokyonight&hide_border=true)
+
+---
+
+### **📈 GitHub Stats**
+![Morris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrippiieeM&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### **🧠 Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrippiieeM&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -61,8 +74,8 @@ A farm management app with:
 ---
 
 ## ⚡ Fun Fact
-I love building solutions for **real users in rural areas**—apps that make life easier for farmers.
+I love building solutions for **real rural farmers**—simple tools that make a big impact.
 
 ---
 
-### ⭐ *Thanks for checking out my profile! Feel free to fork my work, contribute, or reach out for collaboration.*
+### ⭐ *Thanks for visiting my profile!*
