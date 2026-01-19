@@ -1,85 +1,101 @@
-# 👋 Hi, I'm Morris Muchiri!
+<div align="center">
 
-🎓 **Business Information Technology student** at **Dedan Kimathi University of Technology (DeKUT)**  
-📍 Based in Kenya  
-📱 Passionate about **mobile app development, backend systems, and digital solutions for farmers & cooperatives**
+  # 👋 Hi, I'm Morris Muchiri!
+
+  ### 🎓 Business Information Technology Student @ <a href="https://www.dkut.ac.ke/" target="_blank">DeKUT</a>
+  
+  <p>
+    <a href="mailto:muchirimorris007@gmail.com">
+      <img src="https://img.shields.io/badge/Email-muchirimorris007%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Location-Nyeri%2C%20Kenya-red?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+    </a>
+  </p>
+
+  <p>
+    <i>Passionate about <b>Mobile App Development</b>, <b>Backend Systems</b>, and <b>Digital Solutions for Agriculture</b>.</i>
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🌾 I build **agritech mobile applications** that solve real-world problems for farmers.  
-- 🧠 Interest in **machine learning** (prediction models & anomaly detection).  
-- 📱 Skilled in **React Native & Flutter**  
-- ☁️ Experienced with **Firebase & Supabase**  
-- 🔧 Building offline-first, scalable mobile apps  
+I am a mobile developer focusing on **Agritech**, building offline-first applications that solve real-world problems for farmers and cooperatives in Kenya.
+
+* 🌾 **Mission:** Empowering rural farmers with accessible digital tools.
+* 📱 **Core Skills:** Building scalable apps with **Flutter** & **React Native**.
+* 🧠 **Interests:** Machine Learning (Anomaly Detection & Prediction Models) applied to agriculture.
+* ☁️ **Backend:** Experienced in architecting serverless solutions with **Firebase** & **Supabase**.
 
 ---
 
 ## 🛠️ Tech Stack
-### **Mobile Development**
-- Flutter  
-- React Native (Expo)
+
+### **Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Backend & Cloud**
-- Firebase (Auth, Firestore, Storage)
-- Supabase
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### **Tools & Others**
-- Git & GitHub  
-- Figma  
-- REST APIs  
-- Data Visualization  
+### **Tools & Workflow**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🌟 Featured Projects
-### 📱 **Podago — Mobile Milk Collection & Farmer Support System**
-- ✔ Phone number authentication  
-- ✔ Log milk production  
-- ✔ Animal management  
-- ✔ Trend visualization  
-- ✔ Offline-first + Firebase backup  
+
+### 📱 **Podago**
+> *Mobile Milk Collection & Farmer Support System*
+A comprehensive dairy management system designed for reliability in low-connectivity areas.
+* **Key Features:** SMS/Phone Auth, Production Logging, Animal Management, Data Trends.
+* **Architecture:** Offline-first architecture with background synchronization.
+* **Tech:** `Flutter` `Firebase Auth` `Firestore`
 
 ### 📱 **MkulimaSmart**
-- ✔ Production logging  
-- ✔ Marketplace  
-- ✔ ML predictions (Linear Regression)  
-- ✔ Anomaly detection (Isolation Forest)  
-- ✔ Firebase integration  
+> *Intelligent Marketplace & Prediction Tool*
+An agritech platform connecting farmers to markets while providing AI-driven insights.
+* **Key Features:** Marketplace, Price Prediction (Linear Regression), Disease/Anomaly Detection (Isolation Forest).
+* **Tech:** `React Native` `Python (ML)` `Firebase`
 
 ---
 
-# 📊 GitHub Contribution Stats
+## 📊 GitHub Analytics
 
-### **🔥 Streak Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=TrippiieeM&theme=tokyonight&hide_border=true)
-
----
-
-### **📈 GitHub Stats**
-![Morris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrippiieeM&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-### **🧠 Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrippiieeM&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contact Me
-- **Email:** *muchirimorris007@gmail.com*  
-- **Phone:** *0792746672*  
-- **Address:** P.O. BOX 119, Karatina  
-
----
-## 📊 GitHub Year Summary
-
-![Year Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrippiieeM&theme=tokyonight)
-
-
-## ⚡ Fun Fact
-I love building solutions for **real rural farmers**—simple tools that make a big impact.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=TrippiieeM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=TrippiieeM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrippiieeM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrippiieeM&theme=tokyonight" alt="Profile Summary" />
+</div>
 
 ---
 
-### ⭐ *Thanks for visiting my profile!*
+## 📫 Connect with Me
+
+* 📧 **Email:** [muchirimorris007@gmail.com](mailto:muchirimorris007@gmail.com)
+* 📞 **Phone:** 0792746672
+* 📍 **Location:** Karatina, Kenya
+
+---
+
+<div align="center">
+  <i>"Building solutions for real rural farmers—simple tools that make a big impact."</i>
+</div>
